@@ -13,6 +13,7 @@
 - [bot](#bot)
 - [cpp](#cpp)
 - [deep-learning](#deep-learning)
+- [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
 - [finance](#finance)
@@ -29,6 +30,7 @@
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [mobile](#mobile)
+- [monitoring](#monitoring)
 - [others](#others)
 - [php](#php)
 - [python](#python)
@@ -75,12 +77,17 @@
 
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 
+## devops 
+
+- [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
+
 ## discord 
 
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 
 ## docker 
 
+- [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
@@ -143,6 +150,10 @@
 ## mobile 
 
 - [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
+
+## monitoring 
+
+- [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
 
 ## others 
 
