@@ -65,7 +65,7 @@
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [michaellitherland/flask-microservice-demo](https://github.com/michaellitherland/flask-microservice-demo) - This is a very simple demonstration of a microservice architecture using common Python3 libraries and Docker.
-- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Elasticsearch client library for Python
+- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
