@@ -11,6 +11,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bot](#bot)
+- [cli](#cli)
 - [cpp](#cpp)
 - [deep-learning](#deep-learning)
 - [devops](#devops)
@@ -68,6 +69,10 @@
 ## bot 
 
 - [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
+
+## cli 
+
+- [creimers/heic-to-jpg](https://github.com/creimers/heic-to-jpg) - CLI tool for converting HEIC images to jpg.
 
 ## cpp 
 
@@ -157,6 +162,7 @@
 
 ## others 
 
+- [alexcorvi/heic2any](https://github.com/alexcorvi/heic2any) - Converting HEIF/HEIF image formats to PNG/GIF/JPEG in the browser
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [joaojacome/bitwarden-ssh-agent](https://github.com/joaojacome/bitwarden-ssh-agent) - Small python script to load bitwarden-store ssh keys into ssh-agent
 - [chasinglogic/ansible-role-podman](https://github.com/chasinglogic/ansible-role-podman) - A role for installing podman and running containers
