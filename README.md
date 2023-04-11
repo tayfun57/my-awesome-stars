@@ -18,6 +18,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [TypeScript](#typescript)
 
 ## C 
 
@@ -60,6 +61,7 @@
 
 ## Python 
 
+- [creimers/heic-to-jpg](https://github.com/creimers/heic-to-jpg) - CLI tool for converting HEIC images to jpg.
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [joaojacome/bitwarden-ssh-agent](https://github.com/joaojacome/bitwarden-ssh-agent) - Small python script to load bitwarden-store ssh keys into ssh-agent
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
@@ -87,6 +89,10 @@
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [nerrad/wordpress-ansible-playbook](https://github.com/nerrad/wordpress-ansible-playbook) - An ansible playbook for setting up production and staging WordPress site(s).  Nginx, php7.3, ssl ready (via letsencrypt), mariadb.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
+
+## TypeScript 
+
+- [alexcorvi/heic2any](https://github.com/alexcorvi/heic2any) - Converting HEIF/HEIF image formats to PNG/GIF/JPEG in the browser
 
 
 ## License
