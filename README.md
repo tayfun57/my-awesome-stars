@@ -62,6 +62,7 @@
 
 ## Python 
 
+- [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [creimers/heic-to-jpg](https://github.com/creimers/heic-to-jpg) - CLI tool for converting HEIC images to jpg.
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
@@ -94,6 +95,7 @@
 
 ## TypeScript 
 
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [alexcorvi/heic2any](https://github.com/alexcorvi/heic2any) - Converting HEIF/HEIF image formats to PNG/GIF/JPEG in the browser
 
 
