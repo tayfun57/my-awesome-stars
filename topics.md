@@ -6,13 +6,11 @@
 ## Contents
 
 - [ai](#ai)
-- [android](#android)
 - [ansible](#ansible)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
-- [bot](#bot)
 - [cli](#cli)
 - [cpp](#cpp)
 - [deep-learning](#deep-learning)
@@ -32,7 +30,6 @@
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
-- [mobile](#mobile)
 - [monitoring](#monitoring)
 - [others](#others)
 - [php](#php)
@@ -52,10 +49,6 @@
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
-## android 
-
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
-
 ## ansible 
 
 - [nerrad/wordpress-ansible-playbook](https://github.com/nerrad/wordpress-ansible-playbook) - An ansible playbook for setting up production and staging WordPress site(s).  Nginx, php7.3, ssl ready (via letsencrypt), mariadb.
@@ -67,7 +60,6 @@
 ## automation 
 
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
 
 ## awesome 
 
@@ -78,10 +70,6 @@
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-
-## bot 
-
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
 
 ## cli 
 
@@ -166,10 +154,6 @@
 
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
-## mobile 
-
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
-
 ## monitoring 
 
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
@@ -201,7 +185,6 @@
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [alexal1/Insomniac](https://github.com/alexal1/Insomniac) - Instagram bot for automated Instagram interaction using Android device via ADB
 
 ## python3 
 
