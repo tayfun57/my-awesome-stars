@@ -60,6 +60,7 @@
 
 ## PHP 
 
+- [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
 ## Python 
