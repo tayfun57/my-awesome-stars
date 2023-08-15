@@ -21,6 +21,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [golang](#golang)
+- [google-cloud](#google-cloud)
 - [hacktoberfest](#hacktoberfest)
 - [image-processing](#image-processing)
 - [java](#java)
@@ -42,6 +43,7 @@
 - [software](#software)
 - [telegram](#telegram)
 - [terminal](#terminal)
+- [terraform](#terraform)
 - [wordpress](#wordpress)
 
 ## ai 
@@ -121,6 +123,10 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 
+## google-cloud 
+
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+
 ## hacktoberfest 
 
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -143,6 +149,7 @@
 
 ## kubernetes 
 
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 
 ## linux 
@@ -229,6 +236,10 @@
 ## terminal 
 
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+
+## terraform 
+
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 
 ## wordpress 
 
