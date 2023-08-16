@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [ansible](#ansible)
+- [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -55,6 +56,10 @@
 
 - [jothi-prasath/archlinux-playbook](https://github.com/jothi-prasath/archlinux-playbook) - Archlinux setup and configuration via Ansible.
 - [nerrad/wordpress-ansible-playbook](https://github.com/nerrad/wordpress-ansible-playbook) - An ansible playbook for setting up production and staging WordPress site(s).  Nginx, php7.3, ssl ready (via letsencrypt), mariadb.
+
+## api 
+
+- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼Linkedin API for Python
 
 ## artificial-intelligence 
 
@@ -191,6 +196,7 @@
 
 ## python 
 
+- [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼Linkedin API for Python
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
