@@ -11,6 +11,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
 - [Others](#others)
 - [PHP](#php)
@@ -47,6 +48,10 @@
 - [chasinglogic/ansible-role-podman](https://github.com/chasinglogic/ansible-role-podman) - A role for installing podman and running containers
 - [anshulc55/ansible_automation](https://github.com/anshulc55/ansible_automation) - Ansible PlayBooks
 
+## Jupyter Notebook 
+
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+
 ## Makefile 
 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -72,7 +77,6 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [maltfield/awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) - Comparison of different Lemmy Instances
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [creimers/heic-to-jpg](https://github.com/creimers/heic-to-jpg) - CLI tool for converting HEIC images to jpg.
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [joaojacome/bitwarden-ssh-agent](https://github.com/joaojacome/bitwarden-ssh-agent) - Small python script to load bitwarden-store ssh keys into ssh-agent
