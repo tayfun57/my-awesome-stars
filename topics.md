@@ -35,6 +35,7 @@
 - [monitoring](#monitoring)
 - [nlp](#nlp)
 - [others](#others)
+- [perl](#perl)
 - [php](#php)
 - [python](#python)
 - [python3](#python3)
@@ -197,6 +198,10 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [tschreiner/tschreiner.github.io](https://github.com/tschreiner/tschreiner.github.io) - This is my personal website
 - [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
+
+## perl 
+
+- [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 
 ## php 
 
