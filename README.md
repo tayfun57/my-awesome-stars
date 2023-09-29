@@ -14,6 +14,7 @@
 - [Makefile](#makefile)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -63,6 +64,10 @@
 
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+
+## Perl 
+
+- [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)
 
 ## Python 
 
