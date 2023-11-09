@@ -71,6 +71,7 @@
 
 ## Python 
 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
 - [dmachard/python-publicaddr](https://github.com/dmachard/python-publicaddr) - Getting your V4/V6 public IP from random providers in several ways (DNS, HTTPS or STUN)
 - [OmkarPathak/pyresparser](https://github.com/OmkarPathak/pyresparser) - A simple resume parser used for extracting information from resumes
