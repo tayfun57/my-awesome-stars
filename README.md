@@ -11,7 +11,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
-- [Makefile](#makefile)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -50,15 +49,12 @@
 - [chasinglogic/ansible-role-podman](https://github.com/chasinglogic/ansible-role-podman) - A role for installing podman and running containers
 - [anshulc55/ansible_automation](https://github.com/anshulc55/ansible_automation) - Ansible PlayBooks
 
-## Makefile 
-
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-
 ## Others 
 
 - [jothi-prasath/archlinux-playbook](https://github.com/jothi-prasath/archlinux-playbook) - Archlinux setup and configuration via Ansible.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
 
 ## PHP 
