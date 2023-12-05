@@ -25,6 +25,7 @@
 - [google-cloud](#google-cloud)
 - [hacktoberfest](#hacktoberfest)
 - [image-processing](#image-processing)
+- [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -142,6 +143,10 @@
 ## image-processing 
 
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+
+## ios 
+
+- [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) - A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups
 
 ## java 
 
