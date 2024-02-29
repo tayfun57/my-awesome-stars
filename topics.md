@@ -9,6 +9,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -74,6 +75,10 @@
 ## api 
 
 - [tomquirk/linkedin-api](https://github.com/tomquirk/linkedin-api) - 👨‍💼Linkedin API for Python
+
+## archlinux 
+
+- [jothi-prasath/archlinux-playbook](https://github.com/jothi-prasath/archlinux-playbook) - Archlinux setup and configuration via Ansible.
 
 ## artificial-intelligence 
 
