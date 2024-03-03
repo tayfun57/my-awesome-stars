@@ -40,6 +40,7 @@
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
+- [natural-language-processing](#natural-language-processing)
 - [nlp](#nlp)
 - [others](#others)
 - [perl](#perl)
@@ -217,6 +218,10 @@
 
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
+
+## natural-language-processing 
+
+- [OmkarPathak/pyresparser](https://github.com/OmkarPathak/pyresparser) - A simple resume parser used for extracting information from resumes
 
 ## nlp 
 
