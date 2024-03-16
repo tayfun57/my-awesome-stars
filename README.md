@@ -102,6 +102,7 @@
 
 ## Shell 
 
+- [covertsh/ubuntu-autoinstall-generator](https://github.com/covertsh/ubuntu-autoinstall-generator) - Generate a fully-automated Ubuntu ISO for unattended installations.
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [nerrad/wordpress-ansible-playbook](https://github.com/nerrad/wordpress-ansible-playbook) - An ansible playbook for setting up production and staging WordPress site(s).  Nginx, php7.3, ssl ready (via letsencrypt), mariadb.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
