@@ -42,6 +42,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 
@@ -103,6 +104,7 @@
 
 ## Shell 
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [covertsh/ubuntu-autoinstall-generator](https://github.com/covertsh/ubuntu-autoinstall-generator) - Generate a fully-automated Ubuntu ISO for unattended installations.
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [nerrad/wordpress-ansible-playbook](https://github.com/nerrad/wordpress-ansible-playbook) - An ansible playbook for setting up production and staging WordPress site(s).  Nginx, php7.3, ssl ready (via letsencrypt), mariadb.
