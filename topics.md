@@ -43,6 +43,7 @@
 - [monitoring](#monitoring)
 - [natural-language-processing](#natural-language-processing)
 - [nlp](#nlp)
+- [operating-system](#operating-system)
 - [others](#others)
 - [perl](#perl)
 - [php](#php)
@@ -235,8 +236,13 @@
 
 - [OmkarPathak/pyresparser](https://github.com/OmkarPathak/pyresparser) - A simple resume parser used for extracting information from resumes
 
+## operating-system 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
+
 ## others 
 
+- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [covertsh/ubuntu-autoinstall-generator](https://github.com/covertsh/ubuntu-autoinstall-generator) - Generate a fully-automated Ubuntu ISO for unattended installations.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
 - [dmachard/python-publicaddr](https://github.com/dmachard/python-publicaddr) - Getting your V4/V6 public IP from random providers in several ways (DNS, HTTPS or STUN)
