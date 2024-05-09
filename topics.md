@@ -38,6 +38,7 @@
 - [jekyll](#jekyll)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [monitoring](#monitoring)
@@ -213,6 +214,11 @@
 
 - [jothi-prasath/archlinux-playbook](https://github.com/jothi-prasath/archlinux-playbook) - Archlinux setup and configuration via Ansible.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+
+## llm 
+
+- [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 
 ## machine-learning 
 
