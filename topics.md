@@ -19,6 +19,7 @@
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [deep-learning](#deep-learning)
 - [devops](#devops)
 - [discord](#discord)
@@ -127,6 +128,10 @@
 ## cpp 
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## cryptography 
+
+- [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
 
 ## deep-learning 
 
