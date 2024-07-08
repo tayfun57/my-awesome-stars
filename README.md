@@ -12,6 +12,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Lua](#lua)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -56,6 +57,10 @@
 - [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) - A docker deploy for ansible
 - [chasinglogic/ansible-role-podman](https://github.com/chasinglogic/ansible-role-podman) - A role for installing podman and running containers
 - [anshulc55/ansible_automation](https://github.com/anshulc55/ansible_automation) - Ansible PlayBooks
+
+## Lua 
+
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 
 ## Others 
 
