@@ -45,6 +45,7 @@
 - [monitoring](#monitoring)
 - [natural-language-processing](#natural-language-processing)
 - [nlp](#nlp)
+- [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
 - [perl](#perl)
@@ -254,6 +255,10 @@
 ## nlp 
 
 - [OmkarPathak/pyresparser](https://github.com/OmkarPathak/pyresparser) - A simple resume parser used for extracting information from resumes
+
+## open-source 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
 ## operating-system 
 
