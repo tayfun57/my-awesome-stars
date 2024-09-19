@@ -49,6 +49,7 @@
 - [natural-language-processing](#natural-language-processing)
 - [nlp](#nlp)
 - [open-source](#open-source)
+- [openai](#openai)
 - [operating-system](#operating-system)
 - [others](#others)
 - [perl](#perl)
@@ -277,6 +278,11 @@
 ## open-source 
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+
+## openai 
+
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## operating-system 
 
