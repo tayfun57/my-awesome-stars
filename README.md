@@ -7,6 +7,7 @@
 
 - [Batchfile](#batchfile)
 - [C](#c)
+- [C#](#c#)
 - [CSS](#css)
 - [Go](#go)
 - [Java](#java)
@@ -29,6 +30,10 @@
 ## C 
 
 - [monitoringartist/zabbix-docker-monitoring](https://github.com/monitoringartist/zabbix-docker-monitoring) - :whale: Docker/Kubernetes/Mesos/Marathon/Chronos/LXC/LXD/Swarm container monitoring - Docker image, Zabbix template and C module
+
+## C# # 
+
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 
 ## CSS 
 
