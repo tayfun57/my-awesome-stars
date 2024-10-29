@@ -23,6 +23,7 @@
 - [cli](#cli)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
+- [csharp](#csharp)
 - [data](#data)
 - [devops](#devops)
 - [discord](#discord)
@@ -67,6 +68,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [ubuntu](#ubuntu)
+- [windows](#windows)
 
 ## ai 
 
@@ -127,6 +129,7 @@
 
 ## bash 
 
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 ## bot 
@@ -154,6 +157,10 @@
 ## cryptography 
 
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
+
+## csharp 
+
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 
 ## data 
 
@@ -243,6 +250,7 @@
 
 ## linux 
 
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [jothi-prasath/archlinux-playbook](https://github.com/jothi-prasath/archlinux-playbook) - Archlinux setup and configuration via Ansible.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
@@ -364,6 +372,7 @@
 
 ## shell 
 
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 ## software 
@@ -386,6 +395,10 @@
 ## ubuntu 
 
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
+
+## windows 
+
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 
 
 ## License
