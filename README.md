@@ -87,6 +87,7 @@
 
 ## Python 
 
+- [AlexanderMelde/Verkehrszeichenerkennung](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) - Traffic Sign Detection 🇩🇪 Praktische Implementierung einer Verkehrszeichenerkennung mit OpenCV und Tensorflow im Rahmen einer Studienarbeit.
 - [AIHawk-co/Auto_Jobs_Applier](https://github.com/AIHawk-co/Auto_Jobs_Applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
