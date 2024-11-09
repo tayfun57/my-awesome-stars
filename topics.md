@@ -21,6 +21,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
+- [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -50,6 +51,7 @@
 - [nlp](#nlp)
 - [open-source](#open-source)
 - [openai](#openai)
+- [opencv](#opencv)
 - [operating-system](#operating-system)
 - [others](#others)
 - [perl](#perl)
@@ -64,6 +66,7 @@
 - [shell](#shell)
 - [software](#software)
 - [telegram](#telegram)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [ubuntu](#ubuntu)
@@ -148,6 +151,10 @@
 ## cli 
 
 - [creimers/heic-to-jpg](https://github.com/creimers/heic-to-jpg) - CLI tool for converting HEIC images to jpg.
+
+## computer-vision 
+
+- [AlexanderMelde/Verkehrszeichenerkennung](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) - Traffic Sign Detection 🇩🇪 Praktische Implementierung einer Verkehrszeichenerkennung mit OpenCV und Tensorflow im Rahmen einer Studienarbeit.
 
 ## cpp 
 
@@ -256,6 +263,7 @@
 
 ## machine-learning 
 
+- [AlexanderMelde/Verkehrszeichenerkennung](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) - Traffic Sign Detection 🇩🇪 Praktische Implementierung einer Verkehrszeichenerkennung mit OpenCV und Tensorflow im Rahmen einer Studienarbeit.
 - [OmkarPathak/pyresparser](https://github.com/OmkarPathak/pyresparser) - A simple resume parser used for extracting information from resumes
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
@@ -284,6 +292,10 @@
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+## opencv 
+
+- [AlexanderMelde/Verkehrszeichenerkennung](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) - Traffic Sign Detection 🇩🇪 Praktische Implementierung einer Verkehrszeichenerkennung mit OpenCV und Tensorflow im Rahmen einer Studienarbeit.
 
 ## operating-system 
 
@@ -377,6 +389,10 @@
 
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
+
+## tensorflow 
+
+- [AlexanderMelde/Verkehrszeichenerkennung](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) - Traffic Sign Detection 🇩🇪 Praktische Implementierung einer Verkehrszeichenerkennung mit OpenCV und Tensorflow im Rahmen einer Studienarbeit.
 
 ## terminal 
 
