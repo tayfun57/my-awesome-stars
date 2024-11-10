@@ -87,6 +87,7 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [AlexanderMelde/Verkehrszeichenerkennung](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) - Traffic Sign Detection 🇩🇪 Praktische Implementierung einer Verkehrszeichenerkennung mit OpenCV und Tensorflow im Rahmen einer Studienarbeit.
 - [AIHawk-co/Auto_Jobs_Applier](https://github.com/AIHawk-co/Auto_Jobs_Applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
