@@ -72,6 +72,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [windows](#windows)
 
 ## ai 
@@ -425,6 +426,10 @@
 ## ubuntu 
 
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
+
+## ui 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## windows 
 
