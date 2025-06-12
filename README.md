@@ -99,7 +99,7 @@
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
-- [dmachard/python-publicaddr](https://github.com/dmachard/python-publicaddr) - Getting your V4/V6 public IP from random providers in several ways (DNS, HTTPS or STUN)
+- [dmachard/python-publicaddr](https://github.com/dmachard/python-publicaddr) - Discover your public IP address (IPv4/IPv6) via DNS, HTTPS, or STUN — with built-in fallback and protocol redundancy.
 - [OmkarPathak/pyresparser](https://github.com/OmkarPathak/pyresparser) - A simple resume parser used for extracting information from resumes
 - [maltfield/awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) - Comparison of different Lemmy Instances
 - [susam/mintotp](https://github.com/susam/mintotp) - Minimal TOTP generator in 20 lines of Python
