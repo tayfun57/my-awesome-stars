@@ -329,7 +329,7 @@
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [covertsh/ubuntu-autoinstall-generator](https://github.com/covertsh/ubuntu-autoinstall-generator) - Generate a fully-automated Ubuntu ISO for unattended installations.
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!
-- [dmachard/python-publicaddr](https://github.com/dmachard/python-publicaddr) - Getting your V4/V6 public IP from random providers in several ways (DNS, HTTPS or STUN)
+- [dmachard/python-publicaddr](https://github.com/dmachard/python-publicaddr) - Discover your public IP address (IPv4/IPv6) via DNS, HTTPS, or STUN — with built-in fallback and protocol redundancy.
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject) - An open source computer cloning & management system
 - [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) - A docker deploy for ansible
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
