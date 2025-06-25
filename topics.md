@@ -85,7 +85,7 @@
 
 ## angular 
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## ansible 
 
@@ -182,7 +182,7 @@
 
 ## django 
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 
 ## docker 
 
@@ -277,7 +277,7 @@
 
 - [AlexanderMelde/Verkehrszeichenerkennung](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) - Traffic Sign Detection 🇩🇪 Praktische Implementierung einer Verkehrszeichenerkennung mit OpenCV und Tensorflow im Rahmen einer Studienarbeit.
 - [OmkarPathak/pyresparser](https://github.com/OmkarPathak/pyresparser) - A simple resume parser used for extracting information from resumes
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 
 ## markdown 
