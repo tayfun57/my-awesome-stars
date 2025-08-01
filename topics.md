@@ -74,6 +74,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -433,6 +434,10 @@
 ## windows 
 
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+
+## zsh 
+
+- [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
 
 
 ## License
