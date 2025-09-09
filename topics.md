@@ -16,6 +16,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bot](#bot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -133,6 +134,10 @@
 
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## bot 
 
