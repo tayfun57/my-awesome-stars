@@ -38,6 +38,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [google-cloud](#google-cloud)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -236,6 +237,10 @@
 ## google-cloud 
 
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+
+## gui 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
 ## hacktoberfest 
 
