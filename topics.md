@@ -22,6 +22,7 @@
 - [chrome](#chrome)
 - [cli](#cli)
 - [cloud](#cloud)
+- [command-line](#command-line)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
@@ -164,6 +165,12 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## command-line 
+
+- [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
+- [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 
 ## computer-vision 
 
