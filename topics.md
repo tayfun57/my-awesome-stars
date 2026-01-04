@@ -52,6 +52,7 @@
 - [llm](#llm)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [monitoring](#monitoring)
 - [natural-language-processing](#natural-language-processing)
 - [nlp](#nlp)
@@ -314,6 +315,11 @@
 ## markdown 
 
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+
+## mcp 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 
 ## monitoring 
 
