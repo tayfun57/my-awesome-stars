@@ -34,6 +34,7 @@
 
 ## C# # 
 
+- [jglim/UnlockECU](https://github.com/jglim/UnlockECU) - Free, open-source ECU seed-key unlocking tool.
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 
 ## CSS 
