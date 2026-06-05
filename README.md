@@ -103,7 +103,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [AlexanderMelde/Verkehrszeichenerkennung](https://github.com/AlexanderMelde/Verkehrszeichenerkennung) - Traffic Sign Detection 🇩🇪 Praktische Implementierung einer Verkehrszeichenerkennung mit OpenCV und Tensorflow im Rahmen einer Studienarbeit.
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/Usenet/PleX/Jellyfin mediacenter stack using Docker
 - [buildarr/buildarr](https://github.com/buildarr/buildarr) - Constructs and configures Arr PVR stacks
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
