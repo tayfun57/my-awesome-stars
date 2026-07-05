@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -24,6 +25,10 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 
+## Astro 
+
+- [tschreiner/tschreiner.github.io](https://github.com/tschreiner/tschreiner.github.io) - This is my personal website
+
 ## Batchfile 
 
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
@@ -41,7 +46,6 @@
 
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-- [tschreiner/tschreiner.github.io](https://github.com/tschreiner/tschreiner.github.io) - This is my personal website
 
 ## Go 
 
@@ -78,7 +82,6 @@
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [jothi-prasath/archlinux-playbook](https://github.com/jothi-prasath/archlinux-playbook) - Archlinux setup and configuration via Ansible.
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
@@ -115,6 +118,7 @@
 - [creimers/heic-to-jpg](https://github.com/creimers/heic-to-jpg) - CLI tool for converting HEIC images to jpg.
 - [RPiList/specials](https://github.com/RPiList/specials) - Schutz vor Fakeshops, Werbung, Tracking und anderen Angriffen aus dem Internet
 - [joaojacome/bitwarden-ssh-agent](https://github.com/joaojacome/bitwarden-ssh-agent) - Small python script to load bitwarden-store ssh keys into ssh-agent
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [mblitherland/flask-microservice-demo](https://github.com/mblitherland/flask-microservice-demo) - This is a very simple demonstration of a microservice architecture using common Python3 libraries and Docker.
